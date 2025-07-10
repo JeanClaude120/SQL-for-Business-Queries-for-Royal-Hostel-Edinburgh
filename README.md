@@ -1,5 +1,5 @@
 # Business-Queries-for-Royal-Hostel-Edinburgh
-=================================================================
+
 (1) Count the total number of bookings
 Select count(*) as Total_bookings from bookings
 ;
