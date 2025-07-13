@@ -1,0 +1,501 @@
+booking_id,booking_date,checkin_date,checkout_date,nights,guest_nationality,room_type,num_guests,booking_channel,price_per_night,total_price,was_cancelled,review_score,review_comment
+BKG0001,2024-01-24,2024-02-08,2024-02-09,1,Germany,Mixed Dorm,1,Booking.com,21.49,21.49,0,7.9,"Decent stay, would come again."
+BKG0002,2024-06-01,2024-06-19,2024-06-20,1,UK,Mixed Dorm,1,Hostelworld,27.94,27.94,0,9.5,Amazing stay! Friendly staff and great location.
+BKG0003,2023-03-16,2023-05-27,2023-05-29,2,Spain,Female Dorm,1,Hostelworld,21.3,42.6,0,7.8,"Decent stay, would come again."
+BKG0004,2024-04-20,2024-04-21,2024-04-25,4,France,Mixed Dorm,1,Hostelworld,24.74,98.96,0,8.8,"Decent stay, would come again."
+BKG0005,2024-03-27,2024-05-10,2024-05-12,2,France,Mixed Dorm,1,Hostelworld,18.59,37.18,0,8.5,"Decent stay, would come again."
+BKG0006,2023-03-25,2023-05-23,2023-05-26,3,UK,Private Room,2,Hostelworld,38.61,231.66,0,7.5,"Decent stay, would come again."
+BKG0007,2024-05-29,2024-06-22,2024-06-25,3,UK,Female Dorm,1,Hostelworld,29.33,87.99,0,6.1,"Decent stay, would come again."
+BKG0008,2023-04-12,2023-05-12,2023-05-17,5,Spain,Mixed Dorm,1,Booking.com,14.83,74.15,0,7.4,"Decent stay, would come again."
+BKG0009,2023-08-31,2023-09-27,2023-10-01,4,USA,Female Dorm,1,Website,18.96,75.84,0,8.3,"Decent stay, would come again."
+BKG0010,2023-12-01,2024-01-02,2024-01-04,2,Brazil,Mixed Dorm,1,Hostelworld,17.28,34.56,0,6.6,"Decent stay, would come again."
+BKG0011,2024-02-16,2024-03-29,2024-04-03,5,Germany,Female Dorm,1,Website,26.4,132.0,0,7.8,"Decent stay, would come again."
+BKG0012,2023-07-18,2023-07-27,2023-07-29,2,Germany,Private Room,2,Hostelworld,52.2,208.8,1,,
+BKG0013,2024-01-26,2024-03-25,2024-03-27,2,USA,Mixed Dorm,1,Hostelworld,15.73,31.46,0,7.5,"Decent stay, would come again."
+BKG0014,2023-10-08,2023-12-22,2023-12-24,2,Brazil,Mixed Dorm,1,Hostelworld,20.33,40.66,0,6.8,"Decent stay, would come again."
+BKG0015,2023-03-27,2023-04-11,2023-04-13,2,USA,Mixed Dorm,1,Hostelworld,21.13,42.26,0,7.4,"Decent stay, would come again."
+BKG0016,2024-01-02,2024-03-02,2024-03-05,3,USA,Private Room,1,Website,39.12,117.36,1,,
+BKG0017,2024-03-21,2024-04-25,2024-04-29,4,Germany,Mixed Dorm,1,Website,18.19,72.76,0,9.9,Amazing stay! Friendly staff and great location.
+BKG0018,2024-03-06,2024-04-09,2024-04-16,7,Spain,Female Dorm,1,Website,21.96,153.72,0,6.9,"Decent stay, would come again."
+BKG0019,2024-05-06,2024-06-16,2024-06-19,3,France,Mixed Dorm,1,Website,28.47,85.41,1,,
+BKG0020,2024-06-17,2024-06-26,2024-07-02,6,Spain,Female Dorm,1,Website,24.94,149.64,0,8.2,"Decent stay, would come again."
+BKG0021,2024-05-01,2024-06-22,2024-06-24,2,India,Mixed Dorm,1,Booking.com,20.12,40.24,0,6.7,"Decent stay, would come again."
+BKG0022,2023-11-06,2023-11-15,2023-11-22,7,UK,Female Dorm,1,Hostelworld,22.59,158.13,1,,
+BKG0023,2023-05-26,2023-06-29,2023-07-02,3,Brazil,Female Dorm,1,Booking.com,30.82,92.46,0,8.2,"Decent stay, would come again."
+BKG0024,2024-02-19,2024-03-16,2024-03-20,4,USA,Mixed Dorm,1,Hostelworld,19.65,78.6,1,,
+BKG0025,2023-10-20,2023-11-05,2023-11-07,2,UK,Mixed Dorm,1,Hostelworld,19.1,38.2,0,6.5,"Decent stay, would come again."
+BKG0026,2023-03-06,2023-03-16,2023-03-20,4,UK,Mixed Dorm,1,Website,17.84,71.36,0,7.5,"Decent stay, would come again."
+BKG0027,2023-11-21,2023-12-22,2023-12-24,2,Spain,Mixed Dorm,1,Booking.com,23.17,46.34,1,,
+BKG0028,2023-12-23,2024-02-22,2024-02-24,2,France,Mixed Dorm,1,Website,21.03,42.06,0,6.2,"Decent stay, would come again."
+BKG0029,2023-08-31,2023-10-25,2023-10-28,3,USA,Private Room,1,Booking.com,40.97,122.91,0,7.6,"Decent stay, would come again."
+BKG0030,2023-09-25,2023-11-08,2023-11-13,5,UK,Mixed Dorm,1,Hostelworld,17.97,89.85,0,8.6,"Decent stay, would come again."
+BKG0031,2023-06-04,2023-07-10,2023-07-13,3,France,Private Room,1,Booking.com,55.09,165.27,0,8.9,"Decent stay, would come again."
+BKG0032,2023-03-28,2023-06-20,2023-06-27,7,India,Private Room,1,Booking.com,49.48,346.36,0,7.7,"Decent stay, would come again."
+BKG0033,2023-11-06,2024-01-07,2024-01-09,2,UK,Mixed Dorm,1,Hostelworld,20.99,41.98,1,,
+BKG0034,2023-07-16,2023-09-13,2023-09-15,2,USA,Female Dorm,1,Booking.com,24.93,49.86,0,7.5,"Decent stay, would come again."
+BKG0035,2023-11-07,2023-11-27,2023-11-29,2,UK,Mixed Dorm,1,Booking.com,19.44,38.88,0,6.9,"Decent stay, would come again."
+BKG0036,2023-08-10,2023-08-18,2023-08-19,1,India,Mixed Dorm,1,Hostelworld,30.21,30.21,0,8.8,"Decent stay, would come again."
+BKG0037,2023-11-18,2023-11-29,2023-12-04,5,UK,Mixed Dorm,1,Booking.com,24.07,120.35,0,7.9,"Decent stay, would come again."
+BKG0038,2024-06-27,2024-06-30,2024-07-02,2,Italy,Female Dorm,1,Hostelworld,31.61,63.22,0,8.4,"Decent stay, would come again."
+BKG0039,2023-11-25,2024-01-05,2024-01-11,6,USA,Mixed Dorm,1,Hostelworld,18.06,108.36,0,8.4,"Decent stay, would come again."
+BKG0040,2024-02-09,2024-05-02,2024-05-04,2,Australia,Mixed Dorm,1,Website,24.61,49.22,0,8.0,"Decent stay, would come again."
+BKG0041,2023-12-16,2023-12-29,2023-12-30,1,Germany,Mixed Dorm,1,Booking.com,34.69,34.69,1,,
+BKG0042,2024-05-26,2024-06-11,2024-06-13,2,China,Mixed Dorm,1,Booking.com,18.14,36.28,0,8.8,"Decent stay, would come again."
+BKG0043,2024-04-19,2024-06-26,2024-06-27,1,India,Private Room,2,Website,52.26,104.52,1,,
+BKG0044,2023-07-16,2023-07-31,2023-08-05,5,UK,Female Dorm,1,Hostelworld,27.7,138.5,0,8.1,"Decent stay, would come again."
+BKG0045,2023-08-25,2023-09-21,2023-09-25,4,Germany,Private Room,2,Booking.com,34.04,272.32,0,7.8,"Decent stay, would come again."
+BKG0046,2024-01-21,2024-03-16,2024-03-21,5,Germany,Mixed Dorm,1,Website,21.07,105.35,1,,
+BKG0047,2023-05-24,2023-07-20,2023-07-23,3,UK,Mixed Dorm,1,Website,30.43,91.29,1,,
+BKG0048,2024-06-07,2024-06-12,2024-06-15,3,France,Private Room,1,Website,50.45,151.35,0,7.2,"Decent stay, would come again."
+BKG0049,2024-06-22,2024-06-23,2024-06-28,5,Germany,Mixed Dorm,1,Website,24.49,122.45,0,8.9,"Decent stay, would come again."
+BKG0050,2024-05-28,2024-06-24,2024-07-01,7,India,Female Dorm,1,Hostelworld,29.59,207.13,0,7.5,"Decent stay, would come again."
+BKG0051,2024-04-15,2024-05-08,2024-05-13,5,USA,Mixed Dorm,1,Hostelworld,21.54,107.7,1,,
+BKG0052,2024-04-16,2024-05-18,2024-05-20,2,UK,Female Dorm,1,Booking.com,22.29,44.58,1,,
+BKG0053,2023-06-24,2023-07-20,2023-07-25,5,Germany,Mixed Dorm,1,Booking.com,28.91,144.55,0,7.3,"Decent stay, would come again."
+BKG0054,2023-03-15,2023-06-08,2023-06-10,2,India,Mixed Dorm,1,Booking.com,25.02,50.04,0,7.6,"Decent stay, would come again."
+BKG0055,2024-01-25,2024-03-31,2024-04-02,2,India,Private Room,2,Website,35.61,142.44,1,,
+BKG0056,2023-06-02,2023-08-16,2023-08-23,7,UK,Mixed Dorm,1,Hostelworld,34.69,242.83,0,8.3,"Decent stay, would come again."
+BKG0057,2023-08-10,2023-10-05,2023-10-08,3,France,Female Dorm,1,Hostelworld,22.02,66.06,0,7.8,"Decent stay, would come again."
+BKG0058,2024-02-28,2024-04-24,2024-04-25,1,France,Private Room,1,Website,35.75,35.75,0,7.6,"Decent stay, would come again."
+BKG0059,2023-08-19,2023-11-07,2023-11-09,2,Spain,Private Room,2,Hostelworld,38.97,155.88,0,7.2,"Decent stay, would come again."
+BKG0060,2024-02-22,2024-03-31,2024-04-03,3,USA,Mixed Dorm,1,Hostelworld,19.52,58.56,0,8.4,"Decent stay, would come again."
+BKG0061,2023-05-31,2023-08-18,2023-08-21,3,China,Mixed Dorm,1,Hostelworld,39.46,118.38,0,8.2,"Decent stay, would come again."
+BKG0062,2024-04-08,2024-06-22,2024-06-25,3,France,Mixed Dorm,1,Hostelworld,26.77,80.31,0,7.9,"Decent stay, would come again."
+BKG0063,2024-04-12,2024-05-04,2024-05-08,4,USA,Mixed Dorm,1,Hostelworld,14.24,56.96,0,8.0,"Decent stay, would come again."
+BKG0064,2024-03-21,2024-04-21,2024-04-25,4,UK,Mixed Dorm,1,Website,20.18,80.72,0,10.5,Amazing stay! Friendly staff and great location.
+BKG0065,2023-11-01,2024-01-19,2024-01-24,5,France,Mixed Dorm,1,Hostelworld,19.42,97.1,0,8.3,"Decent stay, would come again."
+BKG0066,2024-02-22,2024-04-12,2024-04-15,3,USA,Mixed Dorm,1,Website,19.9,59.7,0,6.8,"Decent stay, would come again."
+BKG0067,2024-03-31,2024-04-14,2024-04-18,4,China,Mixed Dorm,1,Hostelworld,23.43,93.72,0,8.8,"Decent stay, would come again."
+BKG0068,2023-12-13,2024-01-14,2024-01-20,6,UK,Mixed Dorm,1,Hostelworld,22.37,134.22,0,7.1,"Decent stay, would come again."
+BKG0069,2023-12-14,2024-02-29,2024-03-02,2,France,Female Dorm,1,Booking.com,26.21,52.42,1,,
+BKG0070,2023-10-07,2023-12-17,2023-12-20,3,India,Mixed Dorm,1,Hostelworld,15.79,47.37,0,8.6,"Decent stay, would come again."
+BKG0071,2024-05-06,2024-06-16,2024-06-18,2,Spain,Female Dorm,1,Hostelworld,35.17,70.34,0,7.0,"Decent stay, would come again."
+BKG0072,2024-03-02,2024-04-08,2024-04-10,2,India,Mixed Dorm,1,Website,18.3,36.6,0,8.1,"Decent stay, would come again."
+BKG0073,2023-09-15,2023-12-13,2023-12-15,2,France,Mixed Dorm,1,Hostelworld,18.49,36.98,0,6.4,"Decent stay, would come again."
+BKG0074,2023-04-03,2023-04-30,2023-05-05,5,Australia,Mixed Dorm,1,Booking.com,20.21,101.05,0,6.9,"Decent stay, would come again."
+BKG0075,2024-05-26,2024-06-20,2024-06-23,3,Australia,Private Room,2,Booking.com,53.42,320.52,1,,
+BKG0076,2023-10-03,2023-12-11,2023-12-15,4,Italy,Female Dorm,1,Hostelworld,19.24,76.96,0,9.5,Amazing stay! Friendly staff and great location.
+BKG0077,2023-10-12,2023-12-14,2023-12-15,1,USA,Mixed Dorm,1,Hostelworld,17.65,17.65,0,7.7,"Decent stay, would come again."
+BKG0078,2023-10-28,2023-11-14,2023-11-21,7,India,Female Dorm,1,Hostelworld,24.44,171.08,0,6.8,"Decent stay, would come again."
+BKG0079,2023-04-14,2023-07-06,2023-07-09,3,UK,Private Room,1,Hostelworld,52.68,158.04,0,9.3,Amazing stay! Friendly staff and great location.
+BKG0080,2023-08-17,2023-09-30,2023-10-04,4,Australia,Mixed Dorm,1,Booking.com,15.18,60.72,0,8.2,"Decent stay, would come again."
+BKG0081,2023-04-13,2023-06-13,2023-06-14,1,Brazil,Female Dorm,1,Hostelworld,29.38,29.38,0,8.8,"Decent stay, would come again."
+BKG0082,2024-04-05,2024-06-28,2024-06-29,1,Germany,Mixed Dorm,1,Booking.com,22.29,22.29,0,6.7,"Decent stay, would come again."
+BKG0083,2023-07-03,2023-07-20,2023-07-23,3,India,Mixed Dorm,1,Hostelworld,27.57,82.71,0,8.3,"Decent stay, would come again."
+BKG0084,2023-09-07,2023-09-29,2023-10-02,3,Australia,Private Room,1,Website,40.75,122.25,0,8.3,"Decent stay, would come again."
+BKG0085,2023-12-24,2023-12-28,2024-01-03,6,India,Female Dorm,1,Hostelworld,30.96,185.76,1,,
+BKG0086,2023-06-12,2023-06-22,2023-06-25,3,UK,Private Room,1,Booking.com,52.7,158.1,1,,
+BKG0087,2024-01-04,2024-01-20,2024-01-24,4,UK,Female Dorm,1,Hostelworld,22.88,91.52,0,7.3,"Decent stay, would come again."
+BKG0088,2023-04-07,2023-06-11,2023-06-14,3,France,Mixed Dorm,1,Hostelworld,31.6,94.8,0,8.5,"Decent stay, would come again."
+BKG0089,2023-09-04,2023-11-25,2023-11-30,5,UK,Mixed Dorm,1,Website,16.43,82.15,0,8.7,"Decent stay, would come again."
+BKG0090,2024-01-30,2024-03-05,2024-03-08,3,Spain,Private Room,2,Booking.com,37.08,222.48,0,8.8,"Decent stay, would come again."
+BKG0091,2023-08-15,2023-09-16,2023-09-21,5,India,Mixed Dorm,1,Hostelworld,23.48,117.4,0,7.2,"Decent stay, would come again."
+BKG0092,2024-01-09,2024-04-04,2024-04-06,2,India,Mixed Dorm,1,Website,22.89,45.78,0,8.4,"Decent stay, would come again."
+BKG0093,2024-04-14,2024-05-18,2024-05-20,2,Italy,Private Room,2,Hostelworld,42.47,169.88,0,9.9,Amazing stay! Friendly staff and great location.
+BKG0094,2023-07-04,2023-08-26,2023-08-29,3,USA,Female Dorm,1,Hostelworld,36.44,109.32,0,7.2,"Decent stay, would come again."
+BKG0095,2024-04-11,2024-04-14,2024-04-15,1,USA,Mixed Dorm,1,Hostelworld,17.33,17.33,0,7.2,"Decent stay, would come again."
+BKG0096,2023-10-31,2024-01-10,2024-01-13,3,USA,Mixed Dorm,1,Hostelworld,19.77,59.31,0,8.3,"Decent stay, would come again."
+BKG0097,2023-07-19,2023-08-28,2023-08-30,2,UK,Mixed Dorm,1,Website,34.63,69.26,0,8.8,"Decent stay, would come again."
+BKG0098,2024-03-27,2024-06-24,2024-06-26,2,Spain,Mixed Dorm,1,Booking.com,26.04,52.08,1,,
+BKG0099,2023-11-26,2024-02-11,2024-02-13,2,UK,Mixed Dorm,1,Hostelworld,24.36,48.72,0,7.7,"Decent stay, would come again."
+BKG0100,2023-03-10,2023-05-18,2023-05-20,2,UK,Mixed Dorm,1,Hostelworld,28.16,56.32,1,,
+BKG0101,2024-01-23,2024-03-26,2024-03-28,2,Germany,Mixed Dorm,1,Hostelworld,21.88,43.76,0,7.1,"Decent stay, would come again."
+BKG0102,2023-03-29,2023-05-01,2023-05-07,6,China,Mixed Dorm,1,Hostelworld,16.79,100.74,0,8.5,"Decent stay, would come again."
+BKG0103,2024-01-19,2024-04-16,2024-04-17,1,Italy,Mixed Dorm,1,Hostelworld,19.33,19.33,1,,
+BKG0104,2023-05-02,2023-07-13,2023-07-17,4,Australia,Female Dorm,1,Hostelworld,30.74,122.96,0,8.5,"Decent stay, would come again."
+BKG0105,2023-10-19,2023-12-15,2023-12-17,2,France,Female Dorm,1,Hostelworld,21.78,43.56,0,7.2,"Decent stay, would come again."
+BKG0106,2024-03-15,2024-03-28,2024-04-03,6,Germany,Mixed Dorm,1,Hostelworld,15.46,92.76,0,7.6,"Decent stay, would come again."
+BKG0107,2023-05-30,2023-08-09,2023-08-10,1,Spain,Mixed Dorm,1,Hostelworld,36.37,36.37,0,8.2,"Decent stay, would come again."
+BKG0108,2023-06-29,2023-08-05,2023-08-09,4,Spain,Female Dorm,1,Hostelworld,33.44,133.76,1,,
+BKG0109,2024-04-09,2024-06-29,2024-07-02,3,France,Private Room,1,Hostelworld,52.52,157.56,0,8.4,"Decent stay, would come again."
+BKG0110,2024-06-10,2024-06-19,2024-06-24,5,UK,Mixed Dorm,1,Hostelworld,23.35,116.75,0,8.2,"Decent stay, would come again."
+BKG0111,2023-12-19,2024-01-25,2024-01-28,3,Germany,Mixed Dorm,1,Hostelworld,20.17,60.51,0,6.9,"Decent stay, would come again."
+BKG0112,2023-12-04,2024-02-06,2024-02-09,3,India,Female Dorm,1,Booking.com,23.07,69.21,0,8.6,"Decent stay, would come again."
+BKG0113,2023-03-16,2023-03-28,2023-03-30,2,India,Female Dorm,1,Hostelworld,25.25,50.5,0,9.1,Amazing stay! Friendly staff and great location.
+BKG0114,2024-03-28,2024-06-23,2024-06-28,5,Australia,Female Dorm,1,Website,24.47,122.35,0,7.1,"Decent stay, would come again."
+BKG0115,2023-10-15,2023-11-20,2023-11-22,2,Italy,Female Dorm,1,Hostelworld,23.55,47.1,0,8.5,"Decent stay, would come again."
+BKG0116,2023-08-28,2023-10-20,2023-10-22,2,India,Female Dorm,1,Hostelworld,23.55,47.1,0,11.9,Amazing stay! Friendly staff and great location.
+BKG0117,2023-07-28,2023-10-21,2023-10-27,6,Spain,Private Room,1,Hostelworld,41.71,250.26,0,9.1,Amazing stay! Friendly staff and great location.
+BKG0118,2024-04-01,2024-05-23,2024-05-28,5,USA,Private Room,1,Hostelworld,42.86,214.3,0,8.7,"Decent stay, would come again."
+BKG0119,2023-06-07,2023-08-13,2023-08-15,2,Italy,Female Dorm,1,Booking.com,36.23,72.46,0,8.8,"Decent stay, would come again."
+BKG0120,2023-12-09,2023-12-26,2024-01-01,6,USA,Mixed Dorm,1,Website,17.68,106.08,1,,
+BKG0121,2024-01-08,2024-02-08,2024-02-12,4,UK,Mixed Dorm,1,Hostelworld,19.29,77.16,0,7.5,"Decent stay, would come again."
+BKG0122,2024-05-06,2024-05-14,2024-05-17,3,China,Mixed Dorm,1,Hostelworld,20.25,60.75,0,10.3,Amazing stay! Friendly staff and great location.
+BKG0123,2023-11-18,2023-12-23,2023-12-26,3,Spain,Mixed Dorm,1,Hostelworld,14.4,43.2,0,8.7,"Decent stay, would come again."
+BKG0124,2023-06-08,2023-08-24,2023-08-27,3,Germany,Private Room,1,Booking.com,62.76,188.28,0,7.5,"Decent stay, would come again."
+BKG0125,2024-06-23,2024-06-30,2024-07-03,3,USA,Private Room,2,Booking.com,55.27,331.62,0,8.1,"Decent stay, would come again."
+BKG0126,2024-02-03,2024-04-06,2024-04-11,5,Spain,Mixed Dorm,1,Hostelworld,16.77,83.85,0,7.3,"Decent stay, would come again."
+BKG0127,2023-09-12,2023-11-10,2023-11-16,6,Italy,Private Room,1,Hostelworld,42.04,252.24,0,7.3,"Decent stay, would come again."
+BKG0128,2023-03-25,2023-05-05,2023-05-09,4,China,Female Dorm,1,Hostelworld,22.65,90.6,0,8.0,"Decent stay, would come again."
+BKG0129,2024-04-26,2024-05-16,2024-05-19,3,Spain,Mixed Dorm,1,Hostelworld,18.05,54.15,1,,
+BKG0130,2024-05-23,2024-06-21,2024-06-22,1,USA,Private Room,1,Hostelworld,58.43,58.43,0,8.6,"Decent stay, would come again."
+BKG0131,2023-05-21,2023-05-31,2023-06-03,3,Italy,Private Room,2,Hostelworld,33.92,203.52,0,8.2,"Decent stay, would come again."
+BKG0132,2023-08-18,2023-11-13,2023-11-18,5,Germany,Mixed Dorm,1,Booking.com,18.01,90.05,0,8.9,"Decent stay, would come again."
+BKG0133,2024-05-22,2024-06-26,2024-06-27,1,Italy,Mixed Dorm,1,Booking.com,23.62,23.62,1,,
+BKG0134,2024-03-19,2024-03-31,2024-04-03,3,Italy,Mixed Dorm,1,Booking.com,19.66,58.98,0,8.5,"Decent stay, would come again."
+BKG0135,2024-02-21,2024-03-31,2024-04-06,6,Australia,Mixed Dorm,1,Hostelworld,22.6,135.6,0,6.8,"Decent stay, would come again."
+BKG0136,2023-05-16,2023-06-17,2023-06-20,3,Australia,Female Dorm,1,Website,27.6,82.8,0,7.5,"Decent stay, would come again."
+BKG0137,2024-05-21,2024-06-15,2024-06-18,3,India,Mixed Dorm,1,Website,24.04,72.12,0,9.8,Amazing stay! Friendly staff and great location.
+BKG0138,2023-07-11,2023-09-08,2023-09-10,2,China,Mixed Dorm,1,Booking.com,21.21,42.42,0,6.7,"Decent stay, would come again."
+BKG0139,2023-05-22,2023-06-01,2023-06-04,3,Italy,Mixed Dorm,1,Hostelworld,28.75,86.25,0,10.1,Amazing stay! Friendly staff and great location.
+BKG0140,2023-07-09,2023-09-06,2023-09-11,5,France,Mixed Dorm,1,Hostelworld,23.1,115.5,0,6.5,"Decent stay, would come again."
+BKG0141,2023-12-20,2024-02-04,2024-02-07,3,UK,Private Room,2,Booking.com,38.55,231.3,0,9.3,Amazing stay! Friendly staff and great location.
+BKG0142,2023-03-07,2023-05-19,2023-05-24,5,Brazil,Female Dorm,1,Booking.com,19.88,99.4,0,8.4,"Decent stay, would come again."
+BKG0143,2024-05-02,2024-06-29,2024-07-05,6,Germany,Female Dorm,1,Booking.com,30.92,185.52,0,7.1,"Decent stay, would come again."
+BKG0144,2023-06-08,2023-08-27,2023-08-29,2,Australia,Female Dorm,1,Hostelworld,37.0,74.0,0,4.8,Room was noisy and not very clean.
+BKG0145,2023-04-21,2023-07-11,2023-07-14,3,France,Mixed Dorm,1,Hostelworld,22.93,68.79,0,7.7,"Decent stay, would come again."
+BKG0146,2023-04-18,2023-05-26,2023-05-28,2,Germany,Mixed Dorm,1,Booking.com,16.26,32.52,1,,
+BKG0147,2023-09-06,2023-11-13,2023-11-16,3,UK,Mixed Dorm,1,Booking.com,24.9,74.7,1,,
+BKG0148,2024-04-18,2024-05-26,2024-05-30,4,UK,Mixed Dorm,1,Booking.com,15.71,62.84,0,7.6,"Decent stay, would come again."
+BKG0149,2023-06-26,2023-09-21,2023-09-25,4,UK,Private Room,2,Hostelworld,40.39,323.12,0,9.4,Amazing stay! Friendly staff and great location.
+BKG0150,2023-05-05,2023-07-03,2023-07-05,2,Germany,Female Dorm,1,Hostelworld,24.29,48.58,0,9.2,Amazing stay! Friendly staff and great location.
+BKG0151,2023-09-09,2023-09-23,2023-09-27,4,Italy,Mixed Dorm,1,Booking.com,20.03,80.12,0,7.0,"Decent stay, would come again."
+BKG0152,2024-01-09,2024-02-07,2024-02-10,3,Spain,Female Dorm,1,Booking.com,23.39,70.17,0,8.2,"Decent stay, would come again."
+BKG0153,2023-05-01,2023-05-19,2023-05-20,1,Brazil,Mixed Dorm,1,Website,18.2,18.2,0,8.1,"Decent stay, would come again."
+BKG0154,2023-12-03,2023-12-21,2023-12-23,2,India,Mixed Dorm,1,Hostelworld,18.84,37.68,0,8.1,"Decent stay, would come again."
+BKG0155,2023-12-28,2024-01-17,2024-01-22,5,China,Female Dorm,1,Hostelworld,23.99,119.95,1,,
+BKG0156,2023-07-24,2023-07-29,2023-08-02,4,France,Mixed Dorm,1,Hostelworld,30.76,123.04,0,6.8,"Decent stay, would come again."
+BKG0157,2024-02-17,2024-04-05,2024-04-08,3,UK,Private Room,2,Hostelworld,46.4,278.4,1,,
+BKG0158,2024-05-10,2024-06-09,2024-06-10,1,Italy,Mixed Dorm,1,Booking.com,20.14,20.14,0,7.8,"Decent stay, would come again."
+BKG0159,2023-08-20,2023-09-21,2023-09-28,7,Germany,Female Dorm,1,Booking.com,23.76,166.32,0,8.3,"Decent stay, would come again."
+BKG0160,2023-12-28,2024-01-25,2024-01-30,5,Australia,Mixed Dorm,1,Booking.com,18.13,90.65,0,7.8,"Decent stay, would come again."
+BKG0161,2023-07-22,2023-08-10,2023-08-17,7,Australia,Female Dorm,1,Website,35.7,249.9,1,,
+BKG0162,2023-05-09,2023-05-11,2023-05-13,2,Italy,Female Dorm,1,Website,20.23,40.46,0,8.8,"Decent stay, would come again."
+BKG0163,2023-05-06,2023-06-29,2023-07-02,3,Spain,Female Dorm,1,Booking.com,29.67,89.01,0,7.3,"Decent stay, would come again."
+BKG0164,2023-04-27,2023-06-24,2023-06-27,3,USA,Private Room,1,Booking.com,54.7,164.1,0,8.3,"Decent stay, would come again."
+BKG0165,2023-08-04,2023-10-02,2023-10-05,3,Brazil,Mixed Dorm,1,Booking.com,22.44,67.32,0,8.6,"Decent stay, would come again."
+BKG0166,2023-04-27,2023-06-29,2023-07-03,4,India,Mixed Dorm,1,Hostelworld,23.51,94.04,0,7.4,"Decent stay, would come again."
+BKG0167,2023-05-06,2023-06-11,2023-06-14,3,USA,Female Dorm,1,Hostelworld,30.84,92.52,0,8.6,"Decent stay, would come again."
+BKG0168,2023-07-31,2023-09-28,2023-10-01,3,Australia,Mixed Dorm,1,Website,19.94,59.82,0,8.1,"Decent stay, would come again."
+BKG0169,2024-05-25,2024-06-30,2024-07-04,4,Spain,Mixed Dorm,1,Hostelworld,29.83,119.32,0,7.4,"Decent stay, would come again."
+BKG0170,2023-10-21,2023-12-12,2023-12-15,3,France,Mixed Dorm,1,Hostelworld,21.64,64.92,0,7.8,"Decent stay, would come again."
+BKG0171,2023-05-20,2023-08-16,2023-08-22,6,China,Mixed Dorm,1,Website,33.15,198.9,0,9.1,Amazing stay! Friendly staff and great location.
+BKG0172,2024-03-15,2024-05-02,2024-05-07,5,Italy,Female Dorm,1,Hostelworld,24.48,122.4,0,8.8,"Decent stay, would come again."
+BKG0173,2023-05-04,2023-06-26,2023-06-28,2,Australia,Female Dorm,1,Booking.com,32.52,65.04,0,8.0,"Decent stay, would come again."
+BKG0174,2023-07-28,2023-10-13,2023-10-15,2,Spain,Mixed Dorm,1,Website,22.05,44.1,0,7.7,"Decent stay, would come again."
+BKG0175,2024-05-09,2024-05-16,2024-05-18,2,UK,Female Dorm,1,Hostelworld,22.97,45.94,0,7.9,"Decent stay, would come again."
+BKG0176,2023-10-08,2023-12-19,2023-12-26,7,Italy,Private Room,1,Hostelworld,40.29,282.03,0,8.6,"Decent stay, would come again."
+BKG0177,2023-03-17,2023-04-10,2023-04-12,2,India,Female Dorm,1,Hostelworld,19.55,39.1,0,10.1,Amazing stay! Friendly staff and great location.
+BKG0178,2023-05-15,2023-07-27,2023-07-31,4,USA,Mixed Dorm,1,Booking.com,22.98,91.92,0,6.8,"Decent stay, would come again."
+BKG0179,2023-11-29,2023-12-27,2023-12-29,2,UK,Mixed Dorm,1,Hostelworld,23.47,46.94,0,8.8,"Decent stay, would come again."
+BKG0180,2024-06-27,2024-06-30,2024-07-03,3,UK,Private Room,1,Hostelworld,53.87,161.61,0,8.6,"Decent stay, would come again."
+BKG0181,2023-07-20,2023-09-15,2023-09-19,4,France,Mixed Dorm,1,Hostelworld,19.96,79.84,0,7.1,"Decent stay, would come again."
+BKG0182,2023-04-30,2023-06-14,2023-06-17,3,USA,Mixed Dorm,1,Hostelworld,26.23,78.69,0,7.3,"Decent stay, would come again."
+BKG0183,2023-03-26,2023-04-24,2023-04-26,2,UK,Female Dorm,1,Hostelworld,24.93,49.86,0,7.9,"Decent stay, would come again."
+BKG0184,2023-05-12,2023-06-14,2023-06-16,2,Spain,Mixed Dorm,1,Hostelworld,23.52,47.04,0,7.7,"Decent stay, would come again."
+BKG0185,2023-11-30,2023-12-30,2024-01-02,3,UK,Private Room,2,Booking.com,61.24,367.44,0,7.4,"Decent stay, would come again."
+BKG0186,2023-03-12,2023-05-10,2023-05-16,6,Italy,Private Room,2,Booking.com,37.53,450.36,0,8.2,"Decent stay, would come again."
+BKG0187,2023-04-30,2023-06-21,2023-06-22,1,China,Mixed Dorm,1,Hostelworld,26.73,26.73,0,7.5,"Decent stay, would come again."
+BKG0188,2024-06-15,2024-06-21,2024-06-22,1,France,Private Room,1,Hostelworld,50.59,50.59,0,8.2,"Decent stay, would come again."
+BKG0189,2024-05-21,2024-06-10,2024-06-14,4,Australia,Mixed Dorm,1,Website,21.66,86.64,0,6.6,"Decent stay, would come again."
+BKG0190,2023-11-29,2024-02-03,2024-02-05,2,France,Female Dorm,1,Booking.com,19.84,39.68,0,7.8,"Decent stay, would come again."
+BKG0191,2023-05-17,2023-06-17,2023-06-19,2,UK,Mixed Dorm,1,Website,26.93,53.86,0,9.5,Amazing stay! Friendly staff and great location.
+BKG0192,2023-04-10,2023-05-03,2023-05-10,7,Spain,Female Dorm,1,Hostelworld,24.57,171.99,0,7.8,"Decent stay, would come again."
+BKG0193,2024-02-14,2024-04-27,2024-04-30,3,India,Private Room,2,Hostelworld,39.94,239.64,0,7.0,"Decent stay, would come again."
+BKG0194,2023-04-06,2023-06-06,2023-06-09,3,Germany,Mixed Dorm,1,Website,25.94,77.82,0,7.7,"Decent stay, would come again."
+BKG0195,2023-08-08,2023-10-07,2023-10-10,3,China,Mixed Dorm,1,Website,20.97,62.91,1,,
+BKG0196,2024-05-13,2024-05-19,2024-05-22,3,Spain,Female Dorm,1,Hostelworld,19.52,58.56,0,8.5,"Decent stay, would come again."
+BKG0197,2024-06-03,2024-06-05,2024-06-08,3,Germany,Private Room,1,Hostelworld,56.6,169.8,0,7.9,"Decent stay, would come again."
+BKG0198,2023-04-03,2023-05-31,2023-06-02,2,Brazil,Private Room,2,Website,41.21,164.84,0,8.7,"Decent stay, would come again."
+BKG0199,2023-03-23,2023-04-24,2023-04-28,4,France,Private Room,1,Booking.com,38.8,155.2,0,8.2,"Decent stay, would come again."
+BKG0200,2024-04-02,2024-05-16,2024-05-20,4,Italy,Mixed Dorm,1,Hostelworld,20.04,80.16,0,8.1,"Decent stay, would come again."
+BKG0201,2023-12-13,2024-03-09,2024-03-11,2,India,Mixed Dorm,1,Booking.com,17.68,35.36,0,8.0,"Decent stay, would come again."
+BKG0202,2023-05-18,2023-06-30,2023-07-01,1,India,Female Dorm,1,Hostelworld,30.09,30.09,0,9.5,Amazing stay! Friendly staff and great location.
+BKG0203,2024-02-05,2024-03-27,2024-03-29,2,UK,Female Dorm,1,Hostelworld,24.88,49.76,0,10.2,Amazing stay! Friendly staff and great location.
+BKG0204,2023-08-18,2023-09-04,2023-09-08,4,Italy,Private Room,1,Hostelworld,37.7,150.8,0,8.9,"Decent stay, would come again."
+BKG0205,2023-09-04,2023-10-14,2023-10-16,2,India,Mixed Dorm,1,Hostelworld,20.55,41.1,0,10.2,Amazing stay! Friendly staff and great location.
+BKG0206,2023-05-12,2023-06-01,2023-06-02,1,Spain,Private Room,1,Hostelworld,49.58,49.58,0,7.2,"Decent stay, would come again."
+BKG0207,2023-11-27,2023-12-02,2023-12-06,4,Italy,Private Room,1,Website,38.2,152.8,0,5.9,Room was noisy and not very clean.
+BKG0208,2024-02-20,2024-05-10,2024-05-15,5,France,Mixed Dorm,1,Hostelworld,18.42,92.1,0,7.2,"Decent stay, would come again."
+BKG0209,2023-07-02,2023-08-28,2023-08-31,3,Australia,Female Dorm,1,Hostelworld,37.63,112.89,0,8.3,"Decent stay, would come again."
+BKG0210,2024-04-20,2024-06-20,2024-06-26,6,USA,Mixed Dorm,1,Hostelworld,31.63,189.78,0,9.0,Amazing stay! Friendly staff and great location.
+BKG0211,2024-03-30,2024-05-06,2024-05-10,4,France,Female Dorm,1,Website,20.27,81.08,0,7.1,"Decent stay, would come again."
+BKG0212,2024-01-06,2024-01-24,2024-01-29,5,Spain,Mixed Dorm,1,Hostelworld,21.48,107.4,1,,
+BKG0213,2024-03-01,2024-05-07,2024-05-12,5,Australia,Mixed Dorm,1,Hostelworld,16.04,80.2,1,,
+BKG0214,2023-05-17,2023-07-12,2023-07-13,1,India,Private Room,2,Booking.com,57.49,114.98,0,9.2,Amazing stay! Friendly staff and great location.
+BKG0215,2023-09-21,2023-11-25,2023-11-27,2,UK,Mixed Dorm,1,Hostelworld,18.59,37.18,0,6.3,"Decent stay, would come again."
+BKG0216,2023-04-22,2023-07-15,2023-07-17,2,UK,Mixed Dorm,1,Booking.com,30.06,60.12,0,7.9,"Decent stay, would come again."
+BKG0217,2024-05-01,2024-05-10,2024-05-14,4,Italy,Mixed Dorm,1,Booking.com,23.71,94.84,0,6.4,"Decent stay, would come again."
+BKG0218,2023-06-21,2023-07-11,2023-07-14,3,Spain,Female Dorm,1,Website,26.8,80.4,0,8.0,"Decent stay, would come again."
+BKG0219,2023-08-04,2023-08-20,2023-08-21,1,Australia,Mixed Dorm,1,Hostelworld,33.94,33.94,0,7.5,"Decent stay, would come again."
+BKG0220,2024-06-08,2024-06-24,2024-06-27,3,Spain,Mixed Dorm,1,Hostelworld,27.87,83.61,0,6.9,"Decent stay, would come again."
+BKG0221,2023-10-08,2023-10-09,2023-10-12,3,France,Mixed Dorm,1,Hostelworld,19.57,58.71,0,8.1,"Decent stay, would come again."
+BKG0222,2023-09-03,2023-09-12,2023-09-19,7,Australia,Female Dorm,1,Hostelworld,23.54,164.78,0,8.7,"Decent stay, would come again."
+BKG0223,2024-05-23,2024-06-23,2024-06-24,1,France,Mixed Dorm,1,Booking.com,22.63,22.63,0,6.5,"Decent stay, would come again."
+BKG0224,2023-04-06,2023-05-21,2023-05-23,2,UK,Female Dorm,1,Hostelworld,25.83,51.66,0,8.3,"Decent stay, would come again."
+BKG0225,2023-05-10,2023-05-16,2023-05-18,2,Italy,Mixed Dorm,1,Booking.com,17.75,35.5,0,9.6,Amazing stay! Friendly staff and great location.
+BKG0226,2024-02-22,2024-04-24,2024-04-27,3,USA,Private Room,1,Booking.com,40.35,121.05,0,9.2,Amazing stay! Friendly staff and great location.
+BKG0227,2023-06-14,2023-06-20,2023-06-24,4,India,Private Room,2,Hostelworld,52.2,417.6,1,,
+BKG0228,2023-12-06,2024-02-05,2024-02-07,2,UK,Female Dorm,1,Hostelworld,28.18,56.36,0,9.8,Amazing stay! Friendly staff and great location.
+BKG0229,2024-05-19,2024-06-30,2024-07-02,2,France,Mixed Dorm,1,Booking.com,25.25,50.5,0,9.0,Amazing stay! Friendly staff and great location.
+BKG0230,2024-06-03,2024-06-16,2024-06-18,2,USA,Mixed Dorm,1,Hostelworld,27.94,55.88,0,9.4,Amazing stay! Friendly staff and great location.
+BKG0231,2023-07-17,2023-07-28,2023-08-01,4,Italy,Mixed Dorm,1,Booking.com,23.11,92.44,0,8.7,"Decent stay, would come again."
+BKG0232,2023-08-14,2023-08-28,2023-08-29,1,Germany,Female Dorm,1,Hostelworld,40.36,40.36,0,6.2,"Decent stay, would come again."
+BKG0233,2024-02-19,2024-04-16,2024-04-18,2,India,Mixed Dorm,1,Hostelworld,16.45,32.9,1,,
+BKG0234,2023-07-21,2023-10-11,2023-10-18,7,USA,Private Room,1,Hostelworld,33.88,237.16,0,7.7,"Decent stay, would come again."
+BKG0235,2024-03-20,2024-06-15,2024-06-17,2,China,Mixed Dorm,1,Hostelworld,28.15,56.3,0,9.5,Amazing stay! Friendly staff and great location.
+BKG0236,2023-05-06,2023-05-15,2023-05-17,2,France,Female Dorm,1,Booking.com,22.22,44.44,0,9.6,Amazing stay! Friendly staff and great location.
+BKG0237,2023-05-20,2023-08-15,2023-08-18,3,France,Mixed Dorm,1,Website,29.66,88.98,0,6.3,"Decent stay, would come again."
+BKG0238,2023-09-06,2023-10-27,2023-10-29,2,Brazil,Mixed Dorm,1,Website,19.83,39.66,0,8.4,"Decent stay, would come again."
+BKG0239,2023-11-23,2024-01-12,2024-01-18,6,Australia,Mixed Dorm,1,Booking.com,19.9,119.4,0,5.9,Room was noisy and not very clean.
+BKG0240,2024-01-10,2024-02-16,2024-02-20,4,UK,Private Room,1,Booking.com,39.73,158.92,0,6.7,"Decent stay, would come again."
+BKG0241,2024-06-05,2024-06-28,2024-07-01,3,USA,Mixed Dorm,1,Booking.com,28.01,84.03,0,8.4,"Decent stay, would come again."
+BKG0242,2023-08-27,2023-09-05,2023-09-08,3,Germany,Mixed Dorm,1,Website,17.18,51.54,0,7.5,"Decent stay, would come again."
+BKG0243,2024-02-24,2024-05-16,2024-05-18,2,Germany,Mixed Dorm,1,Booking.com,16.82,33.64,0,7.9,"Decent stay, would come again."
+BKG0244,2023-07-02,2023-09-04,2023-09-05,1,France,Female Dorm,1,Booking.com,24.87,24.87,0,7.0,"Decent stay, would come again."
+BKG0245,2024-01-10,2024-01-22,2024-01-23,1,USA,Mixed Dorm,1,Hostelworld,21.51,21.51,0,7.5,"Decent stay, would come again."
+BKG0246,2023-09-28,2023-12-11,2023-12-12,1,France,Private Room,1,Hostelworld,37.62,37.62,0,7.9,"Decent stay, would come again."
+BKG0247,2024-05-25,2024-06-30,2024-07-03,3,Brazil,Mixed Dorm,1,Hostelworld,22.89,68.67,1,,
+BKG0248,2023-03-31,2023-04-16,2023-04-19,3,UK,Mixed Dorm,1,Booking.com,18.34,55.02,0,6.8,"Decent stay, would come again."
+BKG0249,2024-06-26,2024-06-29,2024-07-04,5,Italy,Mixed Dorm,1,Hostelworld,31.89,159.45,0,8.0,"Decent stay, would come again."
+BKG0250,2023-08-05,2023-10-23,2023-10-26,3,UK,Female Dorm,1,Booking.com,19.9,59.7,0,8.2,"Decent stay, would come again."
+BKG0251,2024-02-03,2024-04-23,2024-04-27,4,China,Female Dorm,1,Hostelworld,21.66,86.64,0,7.8,"Decent stay, would come again."
+BKG0252,2023-03-17,2023-03-28,2023-03-29,1,Italy,Female Dorm,1,Hostelworld,23.84,23.84,0,8.8,"Decent stay, would come again."
+BKG0253,2023-10-02,2023-12-21,2023-12-24,3,Italy,Mixed Dorm,1,Hostelworld,18.41,55.23,1,,
+BKG0254,2023-11-05,2023-12-07,2023-12-12,5,Germany,Female Dorm,1,Website,20.27,101.35,0,7.7,"Decent stay, would come again."
+BKG0255,2023-10-14,2023-12-07,2023-12-10,3,Italy,Mixed Dorm,1,Hostelworld,13.09,39.27,0,6.5,"Decent stay, would come again."
+BKG0256,2024-03-12,2024-04-26,2024-05-03,7,France,Mixed Dorm,1,Hostelworld,24.1,168.7,0,9.6,Amazing stay! Friendly staff and great location.
+BKG0257,2023-10-27,2023-11-12,2023-11-14,2,UK,Mixed Dorm,1,Hostelworld,19.25,38.5,0,8.6,"Decent stay, would come again."
+BKG0258,2024-01-12,2024-03-06,2024-03-08,2,China,Private Room,1,Booking.com,40.93,81.86,0,11.1,Amazing stay! Friendly staff and great location.
+BKG0259,2023-06-08,2023-06-29,2023-07-02,3,Spain,Female Dorm,1,Hostelworld,31.96,95.88,0,7.9,"Decent stay, would come again."
+BKG0260,2024-06-28,2024-06-30,2024-07-03,3,Italy,Private Room,1,Website,49.13,147.39,0,6.4,"Decent stay, would come again."
+BKG0261,2024-01-02,2024-03-26,2024-03-30,4,UK,Mixed Dorm,1,Website,20.61,82.44,0,7.2,"Decent stay, would come again."
+BKG0262,2023-07-16,2023-09-01,2023-09-05,4,France,Mixed Dorm,1,Hostelworld,15.73,62.92,0,7.4,"Decent stay, would come again."
+BKG0263,2023-12-11,2024-01-17,2024-01-18,1,Australia,Female Dorm,1,Hostelworld,18.76,18.76,1,,
+BKG0264,2024-02-14,2024-05-03,2024-05-05,2,France,Private Room,2,Booking.com,45.06,180.24,0,8.9,"Decent stay, would come again."
+BKG0265,2023-09-06,2023-09-25,2023-09-27,2,Spain,Female Dorm,1,Website,21.98,43.96,0,9.5,Amazing stay! Friendly staff and great location.
+BKG0266,2023-08-20,2023-10-20,2023-10-23,3,India,Mixed Dorm,1,Website,20.23,60.69,1,,
+BKG0267,2023-08-13,2023-09-03,2023-09-05,2,China,Female Dorm,1,Hostelworld,19.42,38.84,0,9.5,Amazing stay! Friendly staff and great location.
+BKG0268,2023-11-18,2024-01-26,2024-01-29,3,Spain,Female Dorm,1,Website,23.62,70.86,0,7.0,"Decent stay, would come again."
+BKG0269,2023-04-28,2023-06-21,2023-06-24,3,USA,Female Dorm,1,Hostelworld,28.03,84.09,0,7.1,"Decent stay, would come again."
+BKG0270,2023-10-31,2023-12-04,2023-12-11,7,Australia,Female Dorm,1,Hostelworld,17.85,124.95,0,8.9,"Decent stay, would come again."
+BKG0271,2023-12-26,2024-02-26,2024-02-28,2,Italy,Female Dorm,1,Booking.com,27.73,55.46,0,6.6,"Decent stay, would come again."
+BKG0272,2024-02-14,2024-03-17,2024-03-18,1,UK,Private Room,1,Hostelworld,41.69,41.69,0,7.3,"Decent stay, would come again."
+BKG0273,2023-09-30,2023-12-28,2023-12-30,2,Italy,Female Dorm,1,Hostelworld,31.54,63.08,0,7.4,"Decent stay, would come again."
+BKG0274,2024-03-09,2024-03-17,2024-03-21,4,Italy,Female Dorm,1,Booking.com,19.41,77.64,0,8.0,"Decent stay, would come again."
+BKG0275,2023-09-11,2023-10-22,2023-10-29,7,Spain,Mixed Dorm,1,Hostelworld,17.51,122.57,0,8.3,"Decent stay, would come again."
+BKG0276,2024-05-20,2024-06-06,2024-06-09,3,Germany,Mixed Dorm,1,Hostelworld,25.85,77.55,0,7.8,"Decent stay, would come again."
+BKG0277,2023-08-02,2023-09-08,2023-09-12,4,Spain,Female Dorm,1,Hostelworld,19.28,77.12,0,7.4,"Decent stay, would come again."
+BKG0278,2024-06-23,2024-06-30,2024-07-04,4,Italy,Mixed Dorm,1,Hostelworld,28.27,113.08,1,,
+BKG0279,2023-09-21,2023-11-05,2023-11-12,7,UK,Private Room,2,Booking.com,41.5,581.0,0,7.0,"Decent stay, would come again."
+BKG0280,2024-06-18,2024-06-26,2024-06-30,4,Germany,Female Dorm,1,Booking.com,28.9,115.6,0,8.8,"Decent stay, would come again."
+BKG0281,2023-12-15,2024-03-14,2024-03-16,2,USA,Mixed Dorm,1,Hostelworld,14.99,29.98,0,8.5,"Decent stay, would come again."
+BKG0282,2024-06-08,2024-06-25,2024-06-27,2,UK,Mixed Dorm,1,Hostelworld,24.01,48.02,0,8.6,"Decent stay, would come again."
+BKG0283,2024-02-14,2024-03-03,2024-03-04,1,India,Female Dorm,1,Hostelworld,19.71,19.71,1,,
+BKG0284,2024-05-25,2024-06-25,2024-06-28,3,Brazil,Mixed Dorm,1,Hostelworld,20.59,61.77,0,6.4,"Decent stay, would come again."
+BKG0285,2024-06-09,2024-06-12,2024-06-16,4,USA,Mixed Dorm,1,Booking.com,26.14,104.56,0,8.3,"Decent stay, would come again."
+BKG0286,2024-06-16,2024-06-19,2024-06-22,3,Brazil,Private Room,1,Hostelworld,49.29,147.87,0,8.6,"Decent stay, would come again."
+BKG0287,2024-06-24,2024-06-30,2024-07-07,7,UK,Private Room,1,Hostelworld,47.02,329.14,0,7.9,"Decent stay, would come again."
+BKG0288,2023-08-21,2023-09-27,2023-09-30,3,Spain,Female Dorm,1,Booking.com,18.37,55.11,0,7.3,"Decent stay, would come again."
+BKG0289,2023-11-16,2024-01-15,2024-01-17,2,UK,Private Room,2,Hostelworld,40.14,160.56,0,7.1,"Decent stay, would come again."
+BKG0290,2023-06-06,2023-06-08,2023-06-12,4,Italy,Female Dorm,1,Booking.com,27.45,109.8,0,9.0,Amazing stay! Friendly staff and great location.
+BKG0291,2024-05-14,2024-06-24,2024-06-29,5,UK,Private Room,2,Hostelworld,50.27,502.7,0,8.8,"Decent stay, would come again."
+BKG0292,2023-05-13,2023-07-14,2023-07-16,2,Germany,Mixed Dorm,1,Hostelworld,22.61,45.22,0,8.5,"Decent stay, would come again."
+BKG0293,2023-08-18,2023-09-26,2023-09-29,3,Germany,Female Dorm,1,Hostelworld,26.32,78.96,0,5.5,Room was noisy and not very clean.
+BKG0294,2024-02-07,2024-02-23,2024-02-26,3,USA,Mixed Dorm,1,Booking.com,17.61,52.83,1,,
+BKG0295,2024-03-31,2024-05-10,2024-05-14,4,India,Female Dorm,1,Hostelworld,23.73,94.92,0,7.8,"Decent stay, would come again."
+BKG0296,2023-05-10,2023-07-11,2023-07-13,2,Italy,Female Dorm,1,Hostelworld,29.71,59.42,0,7.4,"Decent stay, would come again."
+BKG0297,2023-10-30,2024-01-07,2024-01-12,5,USA,Private Room,1,Hostelworld,40.26,201.3,0,7.8,"Decent stay, would come again."
+BKG0298,2023-11-27,2024-01-24,2024-01-27,3,India,Mixed Dorm,1,Website,23.5,70.5,0,8.3,"Decent stay, would come again."
+BKG0299,2024-06-07,2024-06-24,2024-06-26,2,UK,Female Dorm,1,Booking.com,29.61,59.22,0,7.6,"Decent stay, would come again."
+BKG0300,2024-02-14,2024-03-12,2024-03-16,4,India,Mixed Dorm,1,Hostelworld,18.54,74.16,0,7.6,"Decent stay, would come again."
+BKG0301,2023-05-09,2023-07-14,2023-07-17,3,Italy,Female Dorm,1,Hostelworld,29.78,89.34,0,7.6,"Decent stay, would come again."
+BKG0302,2023-03-14,2023-05-04,2023-05-06,2,Germany,Mixed Dorm,1,Website,20.87,41.74,0,10.1,Amazing stay! Friendly staff and great location.
+BKG0303,2024-02-24,2024-03-04,2024-03-07,3,India,Mixed Dorm,1,Booking.com,22.61,67.83,0,7.7,"Decent stay, would come again."
+BKG0304,2023-07-27,2023-09-18,2023-09-20,2,Italy,Mixed Dorm,1,Booking.com,23.6,47.2,1,,
+BKG0305,2023-09-10,2023-10-29,2023-11-01,3,France,Private Room,2,Hostelworld,38.78,232.68,0,6.0,"Decent stay, would come again."
+BKG0306,2023-12-04,2023-12-22,2023-12-26,4,UK,Mixed Dorm,1,Hostelworld,16.98,67.92,0,6.1,"Decent stay, would come again."
+BKG0307,2024-03-09,2024-04-07,2024-04-12,5,Brazil,Female Dorm,1,Hostelworld,20.95,104.75,0,8.0,"Decent stay, would come again."
+BKG0308,2023-10-06,2023-12-14,2023-12-16,2,Spain,Mixed Dorm,1,Website,25.03,50.06,0,8.3,"Decent stay, would come again."
+BKG0309,2024-05-24,2024-06-01,2024-06-02,1,Italy,Female Dorm,1,Booking.com,27.94,27.94,1,,
+BKG0310,2023-07-04,2023-07-31,2023-08-01,1,France,Female Dorm,1,Hostelworld,31.09,31.09,1,,
+BKG0311,2023-07-06,2023-07-12,2023-07-15,3,Germany,Mixed Dorm,1,Booking.com,19.37,58.11,0,8.2,"Decent stay, would come again."
+BKG0312,2023-11-15,2023-12-23,2023-12-25,2,Italy,Private Room,2,Booking.com,42.31,169.24,0,6.5,"Decent stay, would come again."
+BKG0313,2023-07-02,2023-08-10,2023-08-15,5,France,Private Room,1,Hostelworld,71.03,355.15,0,8.3,"Decent stay, would come again."
+BKG0314,2023-12-30,2024-01-22,2024-01-25,3,Spain,Mixed Dorm,1,Booking.com,18.75,56.25,1,,
+BKG0315,2024-02-09,2024-03-29,2024-04-02,4,France,Mixed Dorm,1,Website,21.9,87.6,0,10.3,Amazing stay! Friendly staff and great location.
+BKG0316,2024-03-23,2024-05-31,2024-06-03,3,India,Private Room,2,Website,40.55,243.3,0,8.2,"Decent stay, would come again."
+BKG0317,2023-04-01,2023-06-12,2023-06-15,3,Spain,Mixed Dorm,1,Hostelworld,24.62,73.86,0,7.2,"Decent stay, would come again."
+BKG0318,2023-08-19,2023-11-10,2023-11-11,1,France,Mixed Dorm,1,Hostelworld,22.49,22.49,0,7.1,"Decent stay, would come again."
+BKG0319,2023-03-29,2023-05-03,2023-05-05,2,UK,Female Dorm,1,Website,22.21,44.42,0,7.5,"Decent stay, would come again."
+BKG0320,2023-12-28,2024-03-23,2024-03-26,3,India,Mixed Dorm,1,Hostelworld,21.44,64.32,1,,
+BKG0321,2023-03-10,2023-04-07,2023-04-13,6,USA,Private Room,1,Booking.com,41.0,246.0,1,,
+BKG0322,2024-02-22,2024-05-10,2024-05-14,4,Germany,Mixed Dorm,1,Hostelworld,23.11,92.44,0,7.5,"Decent stay, would come again."
+BKG0323,2023-10-27,2024-01-04,2024-01-07,3,France,Mixed Dorm,1,Booking.com,19.19,57.57,0,7.0,"Decent stay, would come again."
+BKG0324,2024-04-17,2024-06-17,2024-06-21,4,Germany,Mixed Dorm,1,Hostelworld,24.67,98.68,0,8.4,"Decent stay, would come again."
+BKG0325,2024-05-18,2024-06-02,2024-06-06,4,Italy,Mixed Dorm,1,Hostelworld,28.27,113.08,0,7.1,"Decent stay, would come again."
+BKG0326,2023-08-01,2023-08-21,2023-08-23,2,Italy,Mixed Dorm,1,Hostelworld,36.41,72.82,0,9.4,Amazing stay! Friendly staff and great location.
+BKG0327,2024-06-28,2024-06-30,2024-07-02,2,Spain,Private Room,2,Booking.com,53.24,212.96,0,9.9,Amazing stay! Friendly staff and great location.
+BKG0328,2023-05-13,2023-07-22,2023-07-25,3,Spain,Private Room,1,Booking.com,49.68,149.04,0,6.8,"Decent stay, would come again."
+BKG0329,2024-04-24,2024-05-01,2024-05-05,4,China,Mixed Dorm,1,Hostelworld,14.66,58.64,0,9.5,Amazing stay! Friendly staff and great location.
+BKG0330,2023-03-07,2023-04-04,2023-04-07,3,Italy,Mixed Dorm,1,Hostelworld,21.96,65.88,0,7.9,"Decent stay, would come again."
+BKG0331,2023-11-05,2024-01-29,2024-02-01,3,Italy,Mixed Dorm,1,Website,20.84,62.52,0,6.9,"Decent stay, would come again."
+BKG0332,2023-07-21,2023-09-28,2023-10-05,7,China,Mixed Dorm,1,Hostelworld,27.34,191.38,0,8.1,"Decent stay, would come again."
+BKG0333,2024-06-10,2024-06-16,2024-06-18,2,UK,Mixed Dorm,1,Website,26.33,52.66,0,8.7,"Decent stay, would come again."
+BKG0334,2024-04-23,2024-06-08,2024-06-10,2,France,Mixed Dorm,1,Hostelworld,27.44,54.88,0,8.2,"Decent stay, would come again."
+BKG0335,2024-02-22,2024-03-22,2024-03-24,2,USA,Private Room,1,Booking.com,37.63,75.26,0,8.5,"Decent stay, would come again."
+BKG0336,2023-04-19,2023-06-10,2023-06-12,2,UK,Female Dorm,1,Website,34.25,68.5,0,9.3,Amazing stay! Friendly staff and great location.
+BKG0337,2023-11-13,2024-01-08,2024-01-11,3,Brazil,Mixed Dorm,1,Booking.com,24.78,74.34,1,,
+BKG0338,2024-06-15,2024-06-16,2024-06-18,2,Germany,Private Room,2,Booking.com,50.47,201.88,0,7.0,"Decent stay, would come again."
+BKG0339,2023-07-24,2023-10-02,2023-10-05,3,India,Mixed Dorm,1,Hostelworld,19.62,58.86,1,,
+BKG0340,2023-12-28,2024-01-16,2024-01-20,4,France,Female Dorm,1,Website,22.17,88.68,0,9.1,Amazing stay! Friendly staff and great location.
+BKG0341,2023-07-04,2023-09-15,2023-09-20,5,India,Mixed Dorm,1,Hostelworld,14.92,74.6,0,9.5,Amazing stay! Friendly staff and great location.
+BKG0342,2023-05-13,2023-08-10,2023-08-14,4,Brazil,Female Dorm,1,Website,36.71,146.84,0,7.6,"Decent stay, would come again."
+BKG0343,2024-05-05,2024-05-10,2024-05-12,2,Brazil,Female Dorm,1,Hostelworld,18.96,37.92,0,6.3,"Decent stay, would come again."
+BKG0344,2023-03-18,2023-06-08,2023-06-10,2,Germany,Private Room,2,Hostelworld,54.47,217.88,0,8.1,"Decent stay, would come again."
+BKG0345,2023-06-06,2023-09-02,2023-09-05,3,Australia,Mixed Dorm,1,Hostelworld,16.13,48.39,0,6.7,"Decent stay, would come again."
+BKG0346,2023-04-09,2023-04-20,2023-04-22,2,Australia,Mixed Dorm,1,Website,18.99,37.98,0,9.7,Amazing stay! Friendly staff and great location.
+BKG0347,2023-09-03,2023-09-17,2023-09-18,1,France,Private Room,2,Hostelworld,39.22,78.44,0,6.5,"Decent stay, would come again."
+BKG0348,2023-06-06,2023-08-01,2023-08-04,3,France,Female Dorm,1,Website,36.44,109.32,0,7.7,"Decent stay, would come again."
+BKG0349,2023-04-19,2023-07-05,2023-07-08,3,France,Mixed Dorm,1,Hostelworld,17.91,53.73,0,7.9,"Decent stay, would come again."
+BKG0350,2023-04-15,2023-06-26,2023-07-02,6,USA,Private Room,1,Website,51.31,307.86,0,8.7,"Decent stay, would come again."
+BKG0351,2023-07-18,2023-09-20,2023-09-22,2,Germany,Mixed Dorm,1,Hostelworld,25.55,51.1,0,9.1,Amazing stay! Friendly staff and great location.
+BKG0352,2023-09-03,2023-10-06,2023-10-12,6,Spain,Female Dorm,1,Hostelworld,21.19,127.14,0,6.9,"Decent stay, would come again."
+BKG0353,2023-05-11,2023-06-19,2023-06-20,1,China,Mixed Dorm,1,Hostelworld,33.72,33.72,1,,
+BKG0354,2023-10-14,2023-11-26,2023-11-29,3,Germany,Private Room,1,Hostelworld,40.18,120.54,0,8.0,"Decent stay, would come again."
+BKG0355,2023-11-03,2023-12-14,2023-12-16,2,Germany,Mixed Dorm,1,Booking.com,19.93,39.86,0,8.2,"Decent stay, would come again."
+BKG0356,2023-12-22,2024-01-23,2024-01-25,2,Australia,Mixed Dorm,1,Hostelworld,19.57,39.14,1,,
+BKG0357,2023-06-13,2023-08-28,2023-09-04,7,Australia,Mixed Dorm,1,Website,32.08,224.56,0,7.5,"Decent stay, would come again."
+BKG0358,2024-06-27,2024-06-30,2024-07-02,2,China,Female Dorm,1,Website,28.5,57.0,0,7.5,"Decent stay, would come again."
+BKG0359,2024-04-13,2024-06-05,2024-06-09,4,Germany,Mixed Dorm,1,Hostelworld,23.86,95.44,0,8.1,"Decent stay, would come again."
+BKG0360,2023-10-05,2023-11-23,2023-11-24,1,Italy,Private Room,2,Hostelworld,39.24,78.48,1,,
+BKG0361,2024-05-21,2024-06-17,2024-06-20,3,France,Female Dorm,1,Booking.com,33.11,99.33,0,5.3,Room was noisy and not very clean.
+BKG0362,2024-01-23,2024-02-03,2024-02-05,2,USA,Mixed Dorm,1,Website,23.27,46.54,0,9.2,Amazing stay! Friendly staff and great location.
+BKG0363,2023-12-16,2024-03-08,2024-03-12,4,Australia,Mixed Dorm,1,Booking.com,13.78,55.12,0,7.7,"Decent stay, would come again."
+BKG0364,2023-03-08,2023-03-21,2023-03-23,2,Spain,Female Dorm,1,Hostelworld,20.89,41.78,0,6.6,"Decent stay, would come again."
+BKG0365,2023-10-17,2023-12-04,2023-12-06,2,Italy,Female Dorm,1,Hostelworld,19.67,39.34,0,6.9,"Decent stay, would come again."
+BKG0366,2023-03-15,2023-05-16,2023-05-18,2,Brazil,Mixed Dorm,1,Website,25.26,50.52,1,,
+BKG0367,2023-05-14,2023-06-28,2023-06-30,2,Germany,Mixed Dorm,1,Hostelworld,28.81,57.62,0,9.3,Amazing stay! Friendly staff and great location.
+BKG0368,2023-10-13,2024-01-11,2024-01-14,3,UK,Mixed Dorm,1,Booking.com,22.17,66.51,0,6.9,"Decent stay, would come again."
+BKG0369,2023-08-25,2023-11-16,2023-11-18,2,Spain,Private Room,1,Hostelworld,38.43,76.86,0,8.5,"Decent stay, would come again."
+BKG0370,2023-10-07,2023-12-06,2023-12-08,2,UK,Mixed Dorm,1,Hostelworld,16.33,32.66,0,8.7,"Decent stay, would come again."
+BKG0371,2023-03-17,2023-06-04,2023-06-09,5,France,Mixed Dorm,1,Website,25.28,126.4,0,7.6,"Decent stay, would come again."
+BKG0372,2023-07-23,2023-08-01,2023-08-04,3,Spain,Female Dorm,1,Hostelworld,39.31,117.93,0,8.4,"Decent stay, would come again."
+BKG0373,2023-04-30,2023-06-03,2023-06-07,4,Brazil,Mixed Dorm,1,Hostelworld,24.92,99.68,0,9.2,Amazing stay! Friendly staff and great location.
+BKG0374,2023-09-19,2023-12-04,2023-12-06,2,Spain,Mixed Dorm,1,Website,16.76,33.52,0,8.6,"Decent stay, would come again."
+BKG0375,2024-04-15,2024-05-24,2024-05-30,6,USA,Female Dorm,1,Hostelworld,23.78,142.68,0,7.7,"Decent stay, would come again."
+BKG0376,2023-05-01,2023-05-25,2023-05-27,2,France,Mixed Dorm,1,Hostelworld,20.98,41.96,0,6.7,"Decent stay, would come again."
+BKG0377,2023-10-05,2023-10-29,2023-11-01,3,India,Female Dorm,1,Booking.com,24.77,74.31,0,7.8,"Decent stay, would come again."
+BKG0378,2023-05-27,2023-07-29,2023-07-31,2,China,Mixed Dorm,1,Hostelworld,24.43,48.86,1,,
+BKG0379,2023-03-07,2023-05-09,2023-05-11,2,France,Private Room,2,Hostelworld,43.15,172.6,0,7.3,"Decent stay, would come again."
+BKG0380,2023-10-16,2023-12-18,2023-12-20,2,Australia,Female Dorm,1,Hostelworld,17.77,35.54,0,6.4,"Decent stay, would come again."
+BKG0381,2023-06-26,2023-09-03,2023-09-05,2,Italy,Female Dorm,1,Booking.com,23.82,47.64,0,6.7,"Decent stay, would come again."
+BKG0382,2023-11-19,2023-12-04,2023-12-07,3,Spain,Mixed Dorm,1,Booking.com,25.26,75.78,0,5.9,Room was noisy and not very clean.
+BKG0383,2024-03-24,2024-03-30,2024-04-03,4,Germany,Mixed Dorm,1,Hostelworld,25.09,100.36,0,8.2,"Decent stay, would come again."
+BKG0384,2024-01-31,2024-03-03,2024-03-05,2,Germany,Private Room,2,Booking.com,39.71,158.84,0,7.5,"Decent stay, would come again."
+BKG0385,2024-05-19,2024-05-27,2024-05-31,4,China,Mixed Dorm,1,Hostelworld,21.2,84.8,0,8.0,"Decent stay, would come again."
+BKG0386,2024-02-29,2024-05-18,2024-05-21,3,UK,Mixed Dorm,1,Hostelworld,23.31,69.93,0,8.1,"Decent stay, would come again."
+BKG0387,2023-04-02,2023-06-14,2023-06-16,2,Spain,Mixed Dorm,1,Hostelworld,26.45,52.9,0,7.6,"Decent stay, would come again."
+BKG0388,2023-07-29,2023-10-11,2023-10-13,2,UK,Private Room,1,Booking.com,39.83,79.66,0,8.3,"Decent stay, would come again."
+BKG0389,2023-04-02,2023-05-08,2023-05-13,5,India,Mixed Dorm,1,Hostelworld,14.87,74.35,0,6.7,"Decent stay, would come again."
+BKG0390,2024-04-30,2024-05-16,2024-05-20,4,Spain,Female Dorm,1,Hostelworld,24.23,96.92,0,8.2,"Decent stay, would come again."
+BKG0391,2023-10-01,2023-11-19,2023-11-22,3,India,Female Dorm,1,Website,21.45,64.35,0,8.0,"Decent stay, would come again."
+BKG0392,2023-07-23,2023-10-20,2023-10-26,6,Brazil,Mixed Dorm,1,Hostelworld,21.04,126.24,0,7.5,"Decent stay, would come again."
+BKG0393,2024-04-02,2024-04-14,2024-04-18,4,USA,Mixed Dorm,1,Hostelworld,17.67,70.68,0,8.2,"Decent stay, would come again."
+BKG0394,2023-12-01,2024-01-21,2024-01-23,2,Germany,Mixed Dorm,1,Hostelworld,17.06,34.12,0,8.4,"Decent stay, would come again."
+BKG0395,2023-08-22,2023-11-01,2023-11-04,3,Spain,Female Dorm,1,Hostelworld,16.89,50.67,0,9.0,Amazing stay! Friendly staff and great location.
+BKG0396,2023-03-27,2023-04-02,2023-04-03,1,Spain,Female Dorm,1,Website,23.42,23.42,1,,
+BKG0397,2023-10-14,2023-12-12,2023-12-13,1,Brazil,Private Room,1,Booking.com,40.77,40.77,1,,
+BKG0398,2023-08-04,2023-08-25,2023-08-30,5,USA,Private Room,1,Hostelworld,70.55,352.75,0,9.7,Amazing stay! Friendly staff and great location.
+BKG0399,2024-06-07,2024-06-28,2024-06-30,2,Germany,Mixed Dorm,1,Hostelworld,29.04,58.08,0,6.2,"Decent stay, would come again."
+BKG0400,2024-02-01,2024-02-13,2024-02-17,4,Spain,Mixed Dorm,1,Website,16.16,64.64,0,7.4,"Decent stay, would come again."
+BKG0401,2024-02-14,2024-04-11,2024-04-12,1,China,Female Dorm,1,Booking.com,22.08,22.08,0,8.5,"Decent stay, would come again."
+BKG0402,2023-05-09,2023-07-10,2023-07-11,1,USA,Mixed Dorm,1,Website,23.82,23.82,0,8.2,"Decent stay, would come again."
+BKG0403,2024-05-27,2024-06-16,2024-06-18,2,Australia,Female Dorm,1,Website,26.33,52.66,1,,
+BKG0404,2023-05-15,2023-05-24,2023-05-27,3,USA,Mixed Dorm,1,Hostelworld,18.17,54.51,0,6.6,"Decent stay, would come again."
+BKG0405,2024-01-18,2024-02-07,2024-02-13,6,France,Female Dorm,1,Hostelworld,19.23,115.38,1,,
+BKG0406,2023-05-13,2023-05-29,2023-06-01,3,Brazil,Mixed Dorm,1,Hostelworld,15.94,47.82,0,7.0,"Decent stay, would come again."
+BKG0407,2023-07-22,2023-10-13,2023-10-14,1,Italy,Female Dorm,1,Hostelworld,25.16,25.16,0,7.1,"Decent stay, would come again."
+BKG0408,2024-02-19,2024-02-23,2024-02-28,5,Germany,Female Dorm,1,Hostelworld,29.9,149.5,0,8.5,"Decent stay, would come again."
+BKG0409,2024-03-19,2024-05-09,2024-05-11,2,India,Mixed Dorm,1,Booking.com,20.55,41.1,0,7.1,"Decent stay, would come again."
+BKG0410,2023-04-29,2023-05-30,2023-06-02,3,Spain,Female Dorm,1,Booking.com,24.1,72.3,1,,
+BKG0411,2024-06-23,2024-06-26,2024-06-28,2,France,Private Room,2,Hostelworld,50.27,201.08,0,8.1,"Decent stay, would come again."
+BKG0412,2024-03-31,2024-04-10,2024-04-11,1,Germany,Mixed Dorm,1,Website,27.68,27.68,0,7.9,"Decent stay, would come again."
+BKG0413,2024-04-10,2024-05-31,2024-06-03,3,Spain,Female Dorm,1,Hostelworld,25.45,76.35,0,7.3,"Decent stay, would come again."
+BKG0414,2023-04-14,2023-07-05,2023-07-08,3,Germany,Female Dorm,1,Hostelworld,28.5,85.5,0,9.8,Amazing stay! Friendly staff and great location.
+BKG0415,2023-06-15,2023-07-05,2023-07-08,3,Italy,Mixed Dorm,1,Booking.com,24.12,72.36,0,9.8,Amazing stay! Friendly staff and great location.
+BKG0416,2023-04-05,2023-05-15,2023-05-19,4,China,Female Dorm,1,Website,24.12,96.48,0,7.4,"Decent stay, would come again."
+BKG0417,2023-10-11,2023-10-26,2023-10-29,3,Germany,Female Dorm,1,Booking.com,23.9,71.7,0,9.0,Amazing stay! Friendly staff and great location.
+BKG0418,2023-05-03,2023-05-05,2023-05-09,4,UK,Female Dorm,1,Booking.com,23.87,95.48,0,6.4,"Decent stay, would come again."
+BKG0419,2024-04-06,2024-05-10,2024-05-12,2,Australia,Mixed Dorm,1,Hostelworld,17.82,35.64,1,,
+BKG0420,2024-03-31,2024-04-04,2024-04-06,2,Spain,Mixed Dorm,1,Hostelworld,19.26,38.52,1,,
+BKG0421,2024-01-18,2024-01-28,2024-01-31,3,UK,Female Dorm,1,Booking.com,21.78,65.34,0,8.6,"Decent stay, would come again."
+BKG0422,2023-05-22,2023-06-24,2023-06-28,4,Germany,Private Room,1,Hostelworld,52.53,210.12,0,6.7,"Decent stay, would come again."
+BKG0423,2024-05-17,2024-05-18,2024-05-20,2,France,Mixed Dorm,1,Website,21.14,42.28,1,,
+BKG0424,2024-05-15,2024-05-18,2024-05-21,3,Germany,Private Room,2,Hostelworld,41.83,250.98,1,,
+BKG0425,2023-08-13,2023-09-17,2023-09-22,5,UK,Female Dorm,1,Hostelworld,23.68,118.4,0,9.1,Amazing stay! Friendly staff and great location.
+BKG0426,2023-06-25,2023-08-31,2023-09-07,7,India,Private Room,1,Booking.com,70.1,490.7,0,8.5,"Decent stay, would come again."
+BKG0427,2023-08-09,2023-09-20,2023-09-21,1,France,Mixed Dorm,1,Hostelworld,19.79,19.79,0,6.3,"Decent stay, would come again."
+BKG0428,2024-03-15,2024-06-03,2024-06-05,2,Brazil,Mixed Dorm,1,Booking.com,27.29,54.58,0,8.2,"Decent stay, would come again."
+BKG0429,2024-03-12,2024-05-21,2024-05-25,4,UK,Mixed Dorm,1,Hostelworld,20.81,83.24,0,6.7,"Decent stay, would come again."
+BKG0430,2023-08-27,2023-11-17,2023-11-22,5,UK,Private Room,2,Hostelworld,36.76,367.6,0,9.1,Amazing stay! Friendly staff and great location.
+BKG0431,2024-03-09,2024-04-18,2024-04-20,2,Germany,Female Dorm,1,Hostelworld,21.88,43.76,0,8.7,"Decent stay, would come again."
+BKG0432,2023-05-14,2023-06-19,2023-06-20,1,USA,Private Room,2,Hostelworld,52.08,104.16,1,,
+BKG0433,2023-04-15,2023-06-29,2023-06-30,1,China,Mixed Dorm,1,Website,26.09,26.09,0,8.9,"Decent stay, would come again."
+BKG0434,2023-10-11,2024-01-04,2024-01-11,7,Germany,Mixed Dorm,1,Hostelworld,18.45,129.15,0,8.1,"Decent stay, would come again."
+BKG0435,2024-02-24,2024-04-06,2024-04-08,2,UK,Mixed Dorm,1,Hostelworld,18.61,37.22,0,7.6,"Decent stay, would come again."
+BKG0436,2023-12-27,2024-01-10,2024-01-12,2,Spain,Mixed Dorm,1,Hostelworld,19.07,38.14,0,8.2,"Decent stay, would come again."
+BKG0437,2024-03-31,2024-04-27,2024-04-30,3,India,Mixed Dorm,1,Website,18.56,55.68,0,9.3,Amazing stay! Friendly staff and great location.
+BKG0438,2023-08-05,2023-11-03,2023-11-06,3,India,Mixed Dorm,1,Website,17.32,51.96,0,7.8,"Decent stay, would come again."
+BKG0439,2023-09-01,2023-10-22,2023-10-25,3,Germany,Female Dorm,1,Booking.com,20.68,62.04,0,9.4,Amazing stay! Friendly staff and great location.
+BKG0440,2023-09-26,2023-11-23,2023-11-26,3,UK,Female Dorm,1,Website,22.59,67.77,0,9.0,Amazing stay! Friendly staff and great location.
+BKG0441,2023-05-04,2023-05-06,2023-05-07,1,Germany,Female Dorm,1,Website,17.54,17.54,0,8.3,"Decent stay, would come again."
+BKG0442,2024-02-17,2024-05-08,2024-05-14,6,Italy,Mixed Dorm,1,Booking.com,22.67,136.02,0,8.1,"Decent stay, would come again."
+BKG0443,2023-04-05,2023-05-01,2023-05-07,6,UK,Mixed Dorm,1,Booking.com,23.2,139.2,0,7.5,"Decent stay, would come again."
+BKG0444,2023-08-19,2023-09-04,2023-09-05,1,UK,Mixed Dorm,1,Hostelworld,24.23,24.23,0,10.3,Amazing stay! Friendly staff and great location.
+BKG0445,2023-09-21,2023-11-24,2023-11-25,1,UK,Female Dorm,1,Hostelworld,20.91,20.91,0,7.6,"Decent stay, would come again."
+BKG0446,2023-07-24,2023-09-20,2023-09-25,5,Italy,Mixed Dorm,1,Hostelworld,24.36,121.8,0,9.6,Amazing stay! Friendly staff and great location.
+BKG0447,2023-09-29,2023-12-09,2023-12-12,3,France,Mixed Dorm,1,Hostelworld,18.43,55.29,0,7.6,"Decent stay, would come again."
+BKG0448,2024-04-14,2024-06-21,2024-06-23,2,Brazil,Private Room,1,Booking.com,51.15,102.3,0,6.7,"Decent stay, would come again."
+BKG0449,2023-12-06,2024-02-07,2024-02-09,2,Germany,Female Dorm,1,Hostelworld,19.24,38.48,0,7.0,"Decent stay, would come again."
+BKG0450,2024-01-02,2024-01-31,2024-02-01,1,UK,Private Room,2,Booking.com,37.7,75.4,0,8.0,"Decent stay, would come again."
+BKG0451,2024-03-29,2024-06-12,2024-06-19,7,Germany,Private Room,1,Hostelworld,52.7,368.9,0,9.6,Amazing stay! Friendly staff and great location.
+BKG0452,2024-04-11,2024-04-19,2024-04-23,4,France,Private Room,2,Booking.com,37.0,296.0,0,9.0,Amazing stay! Friendly staff and great location.
+BKG0453,2023-06-01,2023-07-02,2023-07-05,3,India,Private Room,2,Website,51.36,308.16,0,8.0,"Decent stay, would come again."
+BKG0454,2023-12-18,2024-02-29,2024-03-02,2,Spain,Private Room,2,Website,42.02,168.08,0,6.9,"Decent stay, would come again."
+BKG0455,2023-03-31,2023-04-30,2023-05-03,3,Spain,Mixed Dorm,1,Hostelworld,21.15,63.45,0,8.2,"Decent stay, would come again."
+BKG0456,2024-04-18,2024-05-05,2024-05-07,2,China,Mixed Dorm,1,Booking.com,21.48,42.96,0,8.3,"Decent stay, would come again."
+BKG0457,2023-05-17,2023-08-01,2023-08-05,4,UK,Mixed Dorm,1,Hostelworld,41.17,164.68,0,7.4,"Decent stay, would come again."
+BKG0458,2023-04-09,2023-05-27,2023-05-31,4,Italy,Female Dorm,1,Hostelworld,20.41,81.64,0,7.4,"Decent stay, would come again."
+BKG0459,2023-05-22,2023-07-17,2023-07-21,4,UK,Private Room,2,Booking.com,50.33,402.64,0,7.4,"Decent stay, would come again."
+BKG0460,2024-06-20,2024-06-30,2024-07-04,4,Italy,Mixed Dorm,1,Website,29.57,118.28,0,9.4,Amazing stay! Friendly staff and great location.
+BKG0461,2024-02-18,2024-03-27,2024-03-29,2,India,Female Dorm,1,Booking.com,20.29,40.58,0,7.2,"Decent stay, would come again."
+BKG0462,2024-03-31,2024-06-12,2024-06-13,1,India,Female Dorm,1,Booking.com,30.01,30.01,0,7.4,"Decent stay, would come again."
+BKG0463,2023-12-17,2023-12-31,2024-01-06,6,USA,Mixed Dorm,1,Hostelworld,31.9,191.4,1,,
+BKG0464,2023-05-27,2023-08-17,2023-08-22,5,USA,Mixed Dorm,1,Hostelworld,34.41,172.05,1,,
+BKG0465,2023-10-17,2023-10-19,2023-10-21,2,UK,Mixed Dorm,1,Hostelworld,15.45,30.9,0,9.5,Amazing stay! Friendly staff and great location.
+BKG0466,2023-03-03,2023-03-10,2023-03-12,2,Brazil,Female Dorm,1,Booking.com,27.39,54.78,0,7.4,"Decent stay, would come again."
+BKG0467,2023-09-12,2023-10-27,2023-10-30,3,Spain,Mixed Dorm,1,Booking.com,18.84,56.52,0,8.3,"Decent stay, would come again."
+BKG0468,2024-02-17,2024-03-17,2024-03-19,2,China,Mixed Dorm,1,Hostelworld,21.0,42.0,0,8.7,"Decent stay, would come again."
+BKG0469,2023-04-25,2023-05-05,2023-05-07,2,USA,Private Room,1,Hostelworld,46.03,92.06,1,,
+BKG0470,2023-04-19,2023-06-02,2023-06-05,3,Spain,Female Dorm,1,Website,28.07,84.21,1,,
+BKG0471,2023-05-26,2023-08-12,2023-08-17,5,UK,Mixed Dorm,1,Hostelworld,31.41,157.05,0,6.6,"Decent stay, would come again."
+BKG0472,2024-02-22,2024-05-03,2024-05-07,4,Germany,Female Dorm,1,Hostelworld,19.81,79.24,0,8.0,"Decent stay, would come again."
+BKG0473,2023-03-28,2023-05-18,2023-05-21,3,UK,Private Room,1,Website,45.38,136.14,0,7.5,"Decent stay, would come again."
+BKG0474,2024-04-27,2024-06-28,2024-06-30,2,UK,Mixed Dorm,1,Hostelworld,26.67,53.34,0,8.0,"Decent stay, would come again."
+BKG0475,2024-05-08,2024-05-16,2024-05-18,2,Spain,Mixed Dorm,1,Hostelworld,23.57,47.14,0,10.5,Amazing stay! Friendly staff and great location.
+BKG0476,2023-12-06,2024-01-25,2024-01-27,2,UK,Private Room,2,Website,38.41,153.64,0,7.5,"Decent stay, would come again."
+BKG0477,2023-07-15,2023-08-13,2023-08-18,5,UK,Female Dorm,1,Hostelworld,40.31,201.55,0,8.7,"Decent stay, would come again."
+BKG0478,2024-02-08,2024-03-24,2024-03-29,5,Australia,Mixed Dorm,1,Hostelworld,25.54,127.7,0,8.6,"Decent stay, would come again."
+BKG0479,2023-09-17,2023-11-23,2023-11-26,3,India,Female Dorm,1,Hostelworld,20.92,62.76,1,,
+BKG0480,2023-11-01,2023-12-10,2023-12-11,1,Spain,Private Room,1,Booking.com,41.77,41.77,0,9.1,Amazing stay! Friendly staff and great location.
+BKG0481,2024-02-12,2024-05-02,2024-05-04,2,UK,Private Room,2,Booking.com,42.46,169.84,1,,
+BKG0482,2024-04-19,2024-05-14,2024-05-16,2,Brazil,Mixed Dorm,1,Hostelworld,21.52,43.04,1,,
+BKG0483,2024-01-18,2024-02-06,2024-02-11,5,India,Mixed Dorm,1,Booking.com,23.2,116.0,0,9.2,Amazing stay! Friendly staff and great location.
+BKG0484,2023-09-17,2023-11-28,2023-11-30,2,Germany,Mixed Dorm,1,Hostelworld,24.15,48.3,1,,
+BKG0485,2024-04-08,2024-06-27,2024-06-30,3,UK,Female Dorm,1,Website,30.55,91.65,0,7.8,"Decent stay, would come again."
+BKG0486,2023-12-26,2024-01-08,2024-01-14,6,UK,Female Dorm,1,Hostelworld,22.44,134.64,0,9.2,Amazing stay! Friendly staff and great location.
+BKG0487,2023-08-26,2023-10-18,2023-10-20,2,Italy,Female Dorm,1,Hostelworld,19.55,39.1,0,8.4,"Decent stay, would come again."
+BKG0488,2023-09-25,2023-10-14,2023-10-17,3,France,Female Dorm,1,Hostelworld,20.82,62.46,1,,
+BKG0489,2024-02-19,2024-03-21,2024-03-22,1,Germany,Mixed Dorm,1,Hostelworld,20.09,20.09,0,9.3,Amazing stay! Friendly staff and great location.
+BKG0490,2024-04-12,2024-05-21,2024-05-23,2,Brazil,Private Room,1,Hostelworld,40.57,81.14,0,8.0,"Decent stay, would come again."
+BKG0491,2024-03-17,2024-05-13,2024-05-17,4,USA,Mixed Dorm,1,Hostelworld,15.92,63.68,0,8.7,"Decent stay, would come again."
+BKG0492,2023-10-15,2023-11-12,2023-11-18,6,Spain,Mixed Dorm,1,Hostelworld,21.94,131.64,0,10.2,Amazing stay! Friendly staff and great location.
+BKG0493,2023-03-31,2023-06-05,2023-06-09,4,USA,Mixed Dorm,1,Hostelworld,25.08,100.32,0,8.2,"Decent stay, would come again."
+BKG0494,2023-11-26,2024-02-07,2024-02-08,1,China,Mixed Dorm,1,Booking.com,20.75,20.75,0,9.6,Amazing stay! Friendly staff and great location.
+BKG0495,2023-10-22,2023-10-29,2023-11-04,6,Germany,Female Dorm,1,Booking.com,21.71,130.26,0,8.3,"Decent stay, would come again."
+BKG0496,2024-01-22,2024-02-07,2024-02-11,4,Spain,Mixed Dorm,1,Hostelworld,21.82,87.28,1,,
+BKG0497,2023-10-31,2024-01-15,2024-01-18,3,China,Mixed Dorm,1,Hostelworld,20.56,61.68,0,7.6,"Decent stay, would come again."
+BKG0498,2023-04-18,2023-05-25,2023-05-26,1,India,Mixed Dorm,1,Booking.com,20.58,20.58,0,9.1,Amazing stay! Friendly staff and great location.
+BKG0499,2023-06-24,2023-09-15,2023-09-17,2,USA,Mixed Dorm,1,Hostelworld,16.92,33.84,1,,
+BKG0500,2024-03-29,2024-06-25,2024-06-26,1,Italy,Private Room,1,Website,52.4,52.4,0,7.3,"Decent stay, would come again."
