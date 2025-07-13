@@ -1,38 +1,73 @@
 # Business-Queries-for-Royal-Hostel-Edinburgh
 
-(1) Count the total number of bookings
+<p align="center">
+  <img 
+    width="368" 
+    height="443" 
+    alt="Screenshot 2025-07-10 at 13 50 52" 
+    src="https://github.com/user-attachments/assets/b05bb94f-9ad9-4f47-9dfb-8e695c0e4e40" />
+</p>
+
+
+ - Count the total number of bookings
+   
+```SQL
 Select count(*) as Total_bookings from bookings
 ;
-(2) Show bookings made via Hostelworld
+```
+
+- Show bookings made via Hostelworld
+
+```SQL
 Select * from bookings
 where booking_channel = 'Hostelworld'
 ;
-(3) List bookings with total prive over £200
+```
+
+- List bookings with total prive over £200
+
+```SQL
 Select booking_id, total_price
 From bookings
 WHERE total_price > 200
 ;
-(4) Sort the bookings by check-in date (Soonest the first)
+```
+
+- Sort the bookings by check-in date (Soonest the first)
+
+```SQL
 Select * from bookings
 Order by checkin_date ASC
 ;
-(5) Count number of cancellations
+```
+
+- Count number of cancellations
+```SQL
 Select count(*) As cancellations
 from bookings
 where was_cancelled = 1;
+```
 
-(6) Average price per night per room type
+- Average price per night per room type
+
+```SQL
 SELECT room_type, Round(AVG(price_per_night),2) As avg_price
 from bookings
 Group by room_type
 ;
-(7) Count bookings by guest nationality
+```
+
+- Count bookings by guest nationality
+```SQL
 Select guest_nationality, COUNT(*) AS num_bookings
 From bookings
 Group By guest_nationality
 Order By num_bookings DESC
 ;
-(8) Find the month with the highest total revenue
+```
+
+- Find the month with the highest total revenue
+```SQL
 SELECT MONTH(checkin_date) As month, Round(SUM(total_price),2) as revenue
 from bookings
 Where was_cancelled = 0
@@ -40,32 +75,55 @@ Group by Month(checkin_date)
 Order by revenue DESC
 Limit 5
 ;
-(9) Calculate average review score by room type
+```
+
+- Calculate the average review score by room type
+
+```SQL
 SELECT room_type, Round(AVG(review_score), 2) AS avg_review
 from bookings
 Where review_score IS NOT NULL
 GROUP BY room_type
 ;
-(10) Total bookings per booking channel
+```
+
+- Total bookings per booking channel
+```SQL
 Select booking_channel, Count(*) as bookings
 from bookings
 Group by booking_channel
 ;
-(11) Average lenght of stay for private room guests
+```
+
+- Average length of stay for private room guests
+
+```SQL
 Select Round(AVG(nights), 2) As avg_stay
 from bookings
 Where room_type = 'private Room'
 ;
-(12) Bookings during the Fringe Festival(August only)
+```
+
+- Bookings during the Fringe Festival(August only)
+  
+```SQL
 Select * from bookings
 Where Month(checkin_date) = 8
 ;
-(12) Find bookings that were made less than 7 days before check-in
+```
+
+- Find bookings that were made less than 7 days before check-in
+
+```SQL
 Select *, DATEDIFF(Checkin_date, booking_date) As days_in_advance
 from bookings
 Where DATEDIFF(checkin_date, booking_date) < 7
 ;
-(12) Top 5 nationalities by average total spend
+```
+
+- Top 5 nationalities by average total spend
+  
+```SQL
 select guest_nationality, Round(AVG(total_price), 2) As avg_spend
 from bookings
 Where was_cancelled = 0
@@ -73,7 +131,11 @@ Group by guest_nationality
 ORDER BY avg_spend DESC
 LIMIT 5
 ;
-(13) Cumulative monthly revenue over time
+```
+
+- Cumulative monthly revenue over time
+  
+```SQL
 Select
 DATE_FORMAT(checkin_date, '%Y-%m') as month,
 SUM(total_price) as montly_revenue,
@@ -82,7 +144,11 @@ from bookings
 Where was_cancelled = 0
 Group by month
 ;
-(14) Categorize bookings as "Short stay", "Medium stay", "Longstay"
+```
+
+- Categorize bookings as "Short stay", "Medium stay", "Longstay"
+
+```SQL
 Select booking_id, nights,
 CASE
 WHEN nights <= 2 Then 'Short stay'
@@ -91,13 +157,21 @@ Else 'Long Stay'
 END AS stay_category
 From bookings
 ;
-(15) Detect peak booking weeks(More than 10 bookings in a 7-day
+```
+
+- Detect peak booking weeks(More than 10 bookings in a 7-day
+
+```SQL
 Select checkin_date, COUNT(*) AS bookings
 from bookings
 Group by checkin_date
 Having bookings > 2
 ;
-(16) Most profitable day based on the check-in date
+```
+
+- Most profitable day based on the check-in date
+
+```SQL
 Select checkin_date, SUM(total_price) AS revenue
 from bookings
 where was_cancelled = 0
@@ -105,9 +179,14 @@ Group by checkin_date
 Order by revenue DESC
 LIMIT 5
 ;
-(17) Guests who paid above average total_price
+```
+
+- Guests who paid above average total_price
+
+```SQL
 Select * from bookings
 where total_price > (
 Select AVG(total_price) from bookings
 Where was_cancelled = 0)
 ;
+```
